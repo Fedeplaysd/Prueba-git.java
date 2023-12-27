@@ -1,0 +1,1 @@
+En este primer texto lo que hice fue agarrar y crear una carpeta abrir git bash, hacer el git init, ahora un git add - para agregar a los archivos, luego voy a hacer un repositorio en git hub y vincularlo.
